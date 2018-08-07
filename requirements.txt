@@ -1,6 +1,6 @@
 celery==4.1.1
 boto3==1.5.29
-paramiko==2.4.0
+paramiko==2.4.1
 ruamel.yaml==0.15.35
 requests==2.18.4
 flower==0.9.2
